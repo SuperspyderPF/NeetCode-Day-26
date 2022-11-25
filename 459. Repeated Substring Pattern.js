@@ -1,0 +1,1 @@
+repeatedSubstringPattern=s=>s.repeat(2).slice(1,-1).includes(s)
